@@ -1,0 +1,4 @@
+Named after Homer Simpson from the Simpsons show, these zombies are distinguished from their below average intelligence
+for a zombie. This is defined from some of the following characteristics:
+    - Easily distracted
+    - Disinterest in nearby survivors
